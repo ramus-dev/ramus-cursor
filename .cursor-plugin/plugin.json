@@ -1,0 +1,29 @@
+{
+  "name": "ramus",
+  "version": "0.1.0",
+  "description": "Ramus gives coding agents a disposable cloud Android emulator: run an APK, demo app or GitHub pull request build, then snapshot the screen, tap, type, read logs and share a live link. Requires a Ramus account or a free CLI trial.",
+  "homepage": "https://ramus.dev/docs/agents",
+  "repository": "https://github.com/ramus-dev/ramus-cursor",
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "android-emulator",
+    "apk",
+    "mobile-testing",
+    "react-native",
+    "expo",
+    "flutter",
+    "kotlin",
+    "emulator",
+    "ramus"
+  ],
+  "author": {
+    "name": "Ramus",
+    "email": "hello@ramus.dev"
+  },
+  "logo": "assets/logo.png",
+  "skills": [
+    "skills/android-cursor"
+  ],
+  "mcpServers": "mcp.json"
+}
